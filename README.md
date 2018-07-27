@@ -3,7 +3,7 @@
 ---
 
 <br/>
-This repository is **Nunno Nugroho** submission for Getting and Cleaning Data course project. It has the instructions on how to run analysis on Human Activity recognition dataset.
+This repository is Nunno Nugroho submission for Getting and Cleaning Data course project. It has the instructions on how to run analysis on Human Activity recognition dataset.
 
 HTML version of this project is [here](https://rpubs.com/ninjazzle/DS-JHU-3-4-Final) 
 
